@@ -21,13 +21,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Naviisml\\IntraApi\\": "src"
+            "walidbtz\\IntraApi\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Naviisml\\IntraApi\\Tests\\": "tests",
-            "Naviisml\\IntraApi\\Database\\": "database"
+            "walidbtz\\IntraApi\\Tests\\": "tests",
+            "walidbtz\\IntraApi\\Database\\": "database"
         }
     },
     "extra": {
