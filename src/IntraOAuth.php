@@ -1,8 +1,8 @@
 <?php
 
-namespace Walidbtz7\IntraApi;
+namespace Walidbtz\IntraApi;
 
-use Walidbtz7\IntraApi\Api\OAuthWrapper;
+use Walidbtz\IntraApi\Api\OAuthWrapper;
 
 class IntraOAuth extends OAuthWrapper
 {
