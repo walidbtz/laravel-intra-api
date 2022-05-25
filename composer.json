@@ -21,22 +21,22 @@
     },
     "autoload": {
         "psr-4": {
-            "walidbtz\\IntraApi\\": "src"
+            "Walidbtz\\IntraApi\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "walidbtz\\IntraApi\\Tests\\": "tests",
-            "walidbtz\\IntraApi\\Database\\": "database"
+            "Walidbtz\\IntraApi\\Tests\\": "tests",
+            "Walidbtz\\IntraApi\\Database\\": "database"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "walidbtz\\IntraApi\\IntraServiceProvider"
+                "Walidbtz\\IntraApi\\IntraServiceProvider"
             ],
             "aliases": {
-                "IntraAPI": "walidbtz\\IntraApi\\Facades\\IntraAPI"
+                "IntraAPI": "Walidbtz\\IntraApi\\Facades\\IntraAPI"
             }
         }
     }
