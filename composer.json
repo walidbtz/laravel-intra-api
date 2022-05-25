@@ -2,7 +2,7 @@
     "name": "walidbtz/laravel-auth-intra",
     "description": "A Laravel package to interact with the 42 Intra api ",
     "license": "Apache-2.0",
-    "version": "1.1.0",
+    "version": "1",
     "authors": [
         {
             "author": "walidbtz",
