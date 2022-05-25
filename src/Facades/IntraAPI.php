@@ -1,6 +1,6 @@
 <?php
 
-namespace Naviisml\IntraApi\Facades;
+namespace Walidbtz\IntraApi\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
