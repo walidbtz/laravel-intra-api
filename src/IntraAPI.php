@@ -2,7 +2,7 @@
 
 namespace Walidbtz\IntraApi;
 
-use Walidbtz7\IntraApi\Api\ApiWrapper;
+use Walidbtz\IntraApi\Api\ApiWrapper;
 
 class IntraAPI extends ApiWrapper
 {
