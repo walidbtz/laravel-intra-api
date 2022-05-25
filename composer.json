@@ -10,9 +10,9 @@
         }
     ],
     "keywords": [
-        "laravel",
         "intra",
-		"api"
+        "42",
+	"auth"
     ],
     "require": {
         "php": "^8.1",
