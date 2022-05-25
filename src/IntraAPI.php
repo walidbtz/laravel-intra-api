@@ -1,6 +1,6 @@
 <?php
 
-namespace Walidbtz7\IntraApi;
+namespace Walidbtz\IntraApi;
 
 use Walidbtz7\IntraApi\Api\ApiWrapper;
 
