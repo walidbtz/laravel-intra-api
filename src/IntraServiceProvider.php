@@ -1,6 +1,6 @@
 <?php
 
-namespace Walidbtz7\IntraApi;
+namespace Walidbtz\IntraApi;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Route;
