@@ -1,12 +1,12 @@
 {
-    "name": "naviisml/laravel-intra-api",
+    "name": "walidbtz/intra-42-auth",
     "description": "A Laravel package to interact with the 42 Intra api ",
     "license": "Apache-2.0",
     "version": "1.1.0",
     "authors": [
         {
-            "author": "Navi",
-            "email": "contact@navel.dev"
+            "author": "walidbtz",
+            "email": "walidboutzougarte@gmail.com"
         }
     ],
     "keywords": [
@@ -33,10 +33,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Naviisml\\IntraApi\\IntraServiceProvider"
+                "walidbtz\\IntraApi\\IntraServiceProvider"
             ],
             "aliases": {
-                "IntraAPI": "Naviisml\\IntraApi\\Facades\\IntraAPI"
+                "IntraAPI": "walidbtz\\IntraApi\\Facades\\IntraAPI"
             }
         }
     }
